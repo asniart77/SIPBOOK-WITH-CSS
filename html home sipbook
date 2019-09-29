@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SIP Book</title>
+    <link rel="stylesheet" href="STYLE.css">
+    <link rel="shortcut icon" href="icons8-book-64.png">
+</head>
+<BODY>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="083e46" style="padding: 0px">
+        <tr>
+            <td bgcolor="083e46"><table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+        </tr>
+    <br>
+    <br>
+    <img src="icons8-book-64.png">
+    <font face="Roboto" color="yellow" size="55">SIP Book</font>
+    <br>
+        <font face="Roboto" color="white">Sistem Informasi Pemesanan Buku Cepat dan Mudah Via Online</font>
+    <br>
+    <br>
+    
+    <hr>
+    </table>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="fffff" style="padding: 0px">
+            <tr>
+                <td bgcolor="083e46"><table width="1000" border="0" align="center" cellpadding="1" cellspacing="0">
+            </tr>
+            <tr align="left">
+            <a href="home">HOME</a> &nbsp;&nbsp;&nbsp;
+            <a href="pemesanan">PEMESANAN</a> &nbsp;&nbsp;&nbsp;
+            <a href="transaksi">TRANSAKSI</a> &nbsp;&nbsp;&nbsp;
+            <a href="pengiriman">PENGIRIMAN</a> &nbsp;&nbsp;&nbsp;
+            <a href="profil">PROFIL</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="email" class="form-control form-control-lg" placeholder="SEARCH"> <input type="submit" name="submit" value="Search">
+            <img src="icons8-home-page-48 (1).png" alt="home">
+            </tr>
+    </table>
+    <br>
+    <table align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="ffffff" style="padding: 0px">
+            <tr>
+                <td bgcolor="ffffff"><table width="1350" border="0" align="center" cellpadding="0" cellspacing="0">
+            </tr>
+                <br>
+                    <br>
+                        <br> 
+                            <br>
+                                <p align="center">
+                                    <font face="Roboto" size="40">Selamat Datang di SIP Book</font>
+                                    <br>
+                                        <br>
+                                            <font face="Roboto" color="grey">Lihat Koleksi Buku Kami</font>
+                                        </br>
+                                    </br>
+                                </p>
+                            </br>
+                        </br>
+                    </br>
+                </br>
+                <p align="center">
+                <img src="idk.jpg"  alt="buku1">
+                <img src="gtw.jpg" alt="buku2">
+                <img src="organic chemistry.jpg" alt="buku3">
+                </p>
+                <br>
+                <hr>
+                <br>
+                <p align="center">
+                    <font face="Roboto" size="40">Buku Terlaris</font>
+                    <br>
+                    <br>
+                    <br>
+                    <br>
+                    <p align="center">
+                        <img src="my word book mathematic.png"  alt="my word book mathematic"></img>
+                        <img src="digital defense.jpg"  alt="digital defense"></img>
+                        <img src="mathematic for liberal arts.jpg"  alt="mathematic for liberal arts"></img>
+                        <img src="my science works physics.jpg"  alt="my science works physics"></img>
+                        <img src="uncommon sense.jpg"  alt="uncommon sense"></img>
+                    </p>
+                </p>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <hr>
+                <p align="center">
+                    <h6>©2019 User Register SIP Book Rights Reserved</h6>
+                </p>
+
+                <hr>
+
+                <footer>182410101045_182410101062</footer>
+    </table>
+</BODY>
+</html>
